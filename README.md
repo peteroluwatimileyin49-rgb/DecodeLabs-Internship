@@ -39,3 +39,13 @@ Data Analytics projects completed as part of the DecodeLabs Internship Program.
 **Tools Used:** Excel, Gemini AI (within Google Sheets)
 
 **Repository Status:** Public | Complete | Ready for Submission
+
+
+
+---
+
+## How to View This Project
+
+1. Open the PDF report for a full written summary of findings (no software needed beyond a PDF viewer)
+2. Open the Excel file in Microsoft Excel or Google Sheets to review the raw data and formulas used
+3. All statistical formulas (mean, median, outlier detection) are visible directly in the Excel file for verification
